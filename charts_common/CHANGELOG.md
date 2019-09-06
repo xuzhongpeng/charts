@@ -1,3 +1,9 @@
+# 0.8.0
+* Bug fixes from open source.
+
+# 0.7.0
+* Added vertical bar label
+
 # 0.6.0
 * Bars can now be rendered on line charts.
 * Negative measure values will now be rendered on bar charts as a separate stack from the positive
